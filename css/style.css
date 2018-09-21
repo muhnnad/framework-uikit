@@ -1,0 +1,25 @@
+.uk-navbar-container:not(.uk-navbar-transparent) {
+    background: #333;
+    height: 96px;
+    border-top: 4px solid #25ed3d;
+    
+}
+
+.uk-logo {
+    color: #fff
+}
+
+.uk-form-width-small {
+    width: 327px;
+    border-radius: 10px;
+    background: #45424282;
+    border: none;
+}
+
+.uk-button:not(:disabled) {
+    cursor: pointer;
+    border: none;
+    color: #fff;
+    background: #357604;
+    border-radius: 8px;
+}
