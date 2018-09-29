@@ -10,7 +10,7 @@
 }
 
 .uk-form-width-small {
-    width: 327px;
+    width: 227px;
     border-radius: 10px;
     background: #45424282;
     border: none;
@@ -22,4 +22,17 @@
     color: #fff;
     background: #357604;
     border-radius: 8px;
+}
+
+.navbar-2 .uk-navbar-container:not(.uk-navbar-transparent) {
+    background: #333;
+    height: 46px;
+    border-top: unset;
+    
+}
+
+.uk-heading-line>::after, .uk-heading-line>::before {
+    border-bottom: 4px solid #e5e5e5;
+    border-top: 4px solid #e5e5e5;
+
 }
